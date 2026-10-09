@@ -1,0 +1,28 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Ignore uploaded and generated Excel spreadsheets
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+
+# Streamlit runtime & cache
+.streamlit/secrets.toml
+.streamlit/cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.idea/
+.vscode/
